@@ -1,0 +1,34 @@
+PODS:
+  - DMSwipeCards (1.0.3)
+  - FlybitsV3ContextSDK (1.0.0-53):
+    - FlybitsV3SDK (<= 1.0.0-53)
+  - FlybitsV3KernelSDK (1.0.0-53):
+    - FlybitsV3SDK (<= 1.0.0-53)
+  - FlybitsV3PushSDK (1.0.0-53):
+    - FlybitsV3SDK (<= 1.0.0-53)
+  - FlybitsV3SDK (1.0.0-53)
+
+DEPENDENCIES:
+  - DMSwipeCards
+  - FlybitsV3ContextSDK (= 1.0.0-53)
+  - FlybitsV3KernelSDK (= 1.0.0-53)
+  - FlybitsV3PushSDK (= 1.0.0-53)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - DMSwipeCards
+    - FlybitsV3ContextSDK
+    - FlybitsV3KernelSDK
+    - FlybitsV3PushSDK
+    - FlybitsV3SDK
+
+SPEC CHECKSUMS:
+  DMSwipeCards: 0f2488120c13eb73366f01e87d1423495cde8ed4
+  FlybitsV3ContextSDK: d5c654c751ace3407bac7fc55a6d20d2520931fd
+  FlybitsV3KernelSDK: 1c2a628a8861da5e93fd319047dcb182a828637b
+  FlybitsV3PushSDK: 4d3efcfcdcc4299f0f3ff1ccca2bd1f30dec2f25
+  FlybitsV3SDK: 348b2da6469b987f9e4f674f937fb395e8e23788
+
+PODFILE CHECKSUM: 64a8b8c186a73d20f67e8ae7a671254a328826d0
+
+COCOAPODS: 1.5.0
